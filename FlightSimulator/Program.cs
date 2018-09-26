@@ -1,0 +1,12 @@
+﻿using System;
+
+namespace FlightSimulator
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.ReadKey();
+        }
+    }
+}
