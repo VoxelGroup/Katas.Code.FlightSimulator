@@ -2,29 +2,20 @@
 
 La empresa ha recibido un encargo de un cliente muy especial y nos ha pedido realizar un simulador de vuelo.  
 
-## [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product "Wikipedia Definition") (v1)
-Inicialmente, se ha de entregar una primera version del simulador.
-El MVP v1 del simulador ha de tener en cuenta diferentes tipos de aviones:
+El simulador ha de tener en cuenta diferentes tipos de aviones:
 - Avión de un solo motor “SingleEnginePlane”
 - Avión de juguete “ToyPlane”
 - Avión de papel “PaperPlane”  
+- Hidroavion “Seaplane” 
 
-Las acciones a realizar serían:
+Las comportamientos a implementar serían:
 - Identificarse “Display”
 - Volar “Fly”
 - Aterrizar “Land” 
-
-## MVP (v2)
-Una vez el MVP v1 está implementado, el cliente ve que el simulador es algo pobre y nos piden que evolucionemos el simulador a la siguiente versión, incluyendo la acción:
 - Arrancar motor “StartEngine” 
   
-Y añadiendo el tipo de avión:
-- Hidroavion “Seaplane” 
-  
-Teniendo en cuenta que este tipo de avión no aterriza con ruedas.  
-
 ## Implementación
-- Implementa la solución de nuestro FlightSimulator utilizando **Programación Orientada a Objetos**, principios **SOLID** y teniendo en cuenta que es un cliente muy inquieto y nos va ir pidiendo ampliación de otros tipos de aviones y comportamientos continuamente.  
+- Implementa la solución de nuestro FlightSimulator utilizando **Programación Orientada a Objetos**, principios **SOLID** y teniendo en cuenta que es un cliente muy inquieto y nos va ir pidiendo ampliación de otros tipos de aviones y comportamientos continuamente y no queremos tener que tocar la implementación de los diferentes comportamientos y tipos de aviones ya implementados.
 
 ## Cada metodo imprime una frase para cada tipo de avión
 
