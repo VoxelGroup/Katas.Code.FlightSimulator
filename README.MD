@@ -66,5 +66,4 @@ Landing with floats
 ---
 
 ## ¿Como entregar la solución?
-- Preferiblemente, antes de empezar a trabajar en la solución, puedes hacer un fork de este repositorio, en tu propio usuario de GitHub. Luego has de implementar la solución en tu fork. Al finalizar, nos has de notificar por email a people@voxelgroup.net, para revisarla en tu fork.
-- Alternativamente puedes de descargar la solución, implementarla offline y al finalizar, enviarla por email a people@voxelgroup.net.
+- Alternativamente puedes de descargar/clonar la solución, implementarla offline y al finalizar, enviarla por email en un zip a people@voxelgroup.net.
