@@ -66,4 +66,4 @@ Landing with floats
 ---
 
 ## ¿Como entregar la solución?
-- Alternativamente puedes de descargar/clonar la solución, implementarla offline y al finalizar, enviarla por email en un zip a people@voxelgroup.net.
+- Puedes de descargar/clonar la solución, implementarla offline y al finalizar, enviarla por email en un zip a people@voxelgroup.net.
